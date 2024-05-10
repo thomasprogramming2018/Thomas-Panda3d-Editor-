@@ -1,0 +1,1 @@
+Welcome this repo is about a project that i am making with the help from the panda3d community in discord its a unity like editor it will feature level editor AI Node Editor Animation Editor Material Editor etc etc, i wish you guys like it and help me make it faster and better! <3
